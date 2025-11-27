@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7E9472C82ED819CF00AB24C8 /* DS1HW4_16__11327132__11327141.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7E9472C72ED819CF00AB24C8 /* DS1HW4_16__11327132__11327141.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		7E9472BB2ED818E200AB24C8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,15 +24,8 @@
 
 /* Begin PBXFileReference section */
 		7E9472BD2ED818E200AB24C8 /* DS1HW4_16__11327132__11327141 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DS1HW4_16__11327132__11327141; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E9472C72ED819CF00AB24C8 /* DS1HW4_16__11327132__11327141.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DS1HW4_16__11327132__11327141.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		7E9472BF2ED818E200AB24C8 /* DS1HW4_16__11327132__11327141 */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = DS1HW4_16__11327132__11327141;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		7E9472BA2ED818E200AB24C8 /* Frameworks */ = {
@@ -44,7 +41,7 @@
 		7E9472B42ED818E200AB24C8 = {
 			isa = PBXGroup;
 			children = (
-				7E9472BF2ED818E200AB24C8 /* DS1HW4_16__11327132__11327141 */,
+				7E9472C72ED819CF00AB24C8 /* DS1HW4_16__11327132__11327141.cpp */,
 				7E9472BE2ED818E200AB24C8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,9 +68,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				7E9472BF2ED818E200AB24C8 /* DS1HW4_16__11327132__11327141 */,
 			);
 			name = DS1HW4_16__11327132__11327141;
 			packageProductDependencies = (
@@ -120,6 +114,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E9472C82ED819CF00AB24C8 /* DS1HW4_16__11327132__11327141.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
